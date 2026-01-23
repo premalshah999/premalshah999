@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Premal Shah</h1>
+<h1 align="center">Hi , I'm Premal Shah</h1>
 <p align="center">
   <em>Data Scientist • Full Stack Developer • ML Engineer • AI Researcher-in-Progress</em><br>
   📍 Washington DC | 🎓 MS in Data Science @ University of Maryland
